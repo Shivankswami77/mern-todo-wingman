@@ -2,7 +2,6 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import TodoForm from "../components/todo/TodoForm";
 import axios from "axios";
-import { makeStyles } from "@material-ui/core/styles";
 import TodoList, { Todo } from "../components/todo/TodoList";
 import Paper from "@material-ui/core/Paper";
 
